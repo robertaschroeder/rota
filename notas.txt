@@ -1,1 +1,15 @@
 Figma url 
+
+TODO:
+
+Logo: Mich
+Actualizar Archivo de Figma: Roberta
+
+----
+
+Listo: 
+
+- Colores
+- Tipografia
+- Logo (WIP)
+- Imagenes (WIP)
