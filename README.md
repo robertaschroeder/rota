@@ -6,6 +6,7 @@
 * Roberta Schroeder
 * Maya Ortiz
 * Amanda Fernandez
+* Aitana Fernandez
 
 ### Tematica:
 
