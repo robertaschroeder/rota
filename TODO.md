@@ -1,13 +1,13 @@
 # TODO
 
 - Amanda
-* Actualizar y aterrizar modificaciones de Desktop y Movil
-* 404
-* Crear cuenta de Cloudinary
+* Actualizar y aterrizar modificaciones de Desktop y Movil ✅
+* 404✅
+* Subir imagenes a cloudinary
 
 - Maya
-* Anotaciones de correciones de LP
-* Thank you page 
+* Anotaciones de correcciones de LP 
+* Thank you page ✅
 
 - Roberta
 * Animacion
@@ -16,4 +16,4 @@
 * Revisar texto call to action (botones de accion)
 
 - Mich
-* Revisar como exportar animacion de AE
+* Revisar como exportar animacion de AE 
